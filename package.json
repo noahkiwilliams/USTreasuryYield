@@ -8,10 +8,11 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "twit": "^2.1.0",
-    "express": "^4.14.0",
-    "request": "^2.88.0",
-    "cheerio": "^0.22.0"
+    "twit": "^2.2.11",
+    "express": "^4.17.1",
+    "request": "^2.88.2",
+    "cheerio": "^0.22.0",
+    "mathjs": "^7.1.0"
   },
   "engines": {
     "node": "6.9.1"
